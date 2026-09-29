@@ -1,0 +1,44 @@
+[
+   {
+      "id": "46b7a198-3fcd-41da-80d8-ac82175111e4",
+      "title": "Learn React",
+      "description": "",
+      "favorite": false,
+      "completed": false
+   },
+   {
+      "id": "4a183f67-3bd1-48b1-b16b-5492e9a9b242",
+      "title": "Learn Vite",
+      "description": "",
+      "favorite": false,
+      "completed": true
+   },
+   {
+      "id": "74429541-0498-4446-a5d3-4fd942e9aa7e",
+      "title": "Learn FastAPI",
+      "description": "",
+      "favorite": false,
+      "completed": true
+   },
+   {
+      "id": "e80c88b4-1d25-4b18-b36d-416274617299",
+      "title": "Learn Docker",
+      "description": "",
+      "favorite": false,
+      "completed": true
+   },
+   {
+      "id": "1caa0d6a-d915-481c-9e5c-3a1447efe793",
+      "title": "Learn PostgreSQL",
+      "description": "",
+      "favorite": false,
+      "completed": true
+   },
+   {
+      "id": "83a31ece-e6dc-4cc1-913c-754762aaae32",
+      "title": "Learn Tailwind CSS",
+      "description": "",
+      "favorite": true,
+      "completed": true
+   }
+]
